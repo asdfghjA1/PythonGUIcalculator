@@ -16,7 +16,7 @@ so NOW YOU WILL HAVE A PACKAGE INSTALLED CALLED TKINTER
 
 <h3>ANYWAYS IF YOU DO  "pip3 install -r requirement.txt" it will do the same thing.....so</h3> 
 
-<h1>------IF YOU ARE NOT INTRESTED AND YOU JUST WANT TO USE THIS -------------</h1>
+<h4>------IF YOU ARE NOT INTRESTED AND YOU JUST WANT TO USE THIS -------------</h4>
 
 open your terminal or the editor you use and then redirect to the directory you downloaded this: 
 		and first of all do : pip3 install -r requirement.txt
