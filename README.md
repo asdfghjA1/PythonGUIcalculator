@@ -18,6 +18,8 @@ so NOW YOU WILL HAVE A PACKAGE INSTALLED CALLED TKINTER
 
 <h1>------IF YOU ARE NOT INTRESTED AND YOU JUST WANT TO USE THIS -------------</h1>
 
-open your terminal or the editor you use and then redirect to the directory you dowloaded this: 
+open your terminal or the editor you use and then redirect to the directory you downloaded this: 
 		and first of all do : pip3 install -r requirement.txt
 		and then you just have to do : python3 main.py
+
+		AND THANKS FOR COMMING :)
